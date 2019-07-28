@@ -452,6 +452,7 @@ textarea.input {
 .form .submit {
     margin: 20px 0;
     font-size: 18px;
+    color: black;
     padding: 5px;
     border: 0;
     background-color: #e4dcdb;
